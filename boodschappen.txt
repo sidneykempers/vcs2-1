@@ -2,6 +2,7 @@ Pizza:
 -tomatensaus
 -salami
 -kaas
+- mozarella
 
 ontbijt:
 -brood
