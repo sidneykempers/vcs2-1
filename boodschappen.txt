@@ -9,3 +9,4 @@ ontbijt:
 -ei
 -spek
 -sappie
+-kaas
